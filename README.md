@@ -5,8 +5,7 @@ Projet conçu par : Rémi Bergeron
 ## Le concept et l'audience
 
 - Une phrase (logline) : ...
-- Le public cible : ...
-- La franchise d'origine : ...
+- Le public cible : Famille
 
 ## L'intrigue
 
